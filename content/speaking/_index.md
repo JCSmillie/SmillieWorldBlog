@@ -29,7 +29,7 @@ The goal of the session was to show how creative scripting, automation, and AI c
 
 ---
 
-### 2024 - *Managing iPads from the Command Line and Scripting it too!*
+### 2023 - *Managing iPads from the Command Line and Scripting it too!*
 
 This session explored how command-line tools and scripting can make Apple device administration faster, more consistent, and easier to scale. It centered on practical workflows, not theory, with an emphasis on repeatability and reducing hands-on setup time.
 
