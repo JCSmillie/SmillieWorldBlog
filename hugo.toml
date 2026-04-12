@@ -1,0 +1,51 @@
+baseURL = "https://blog.smilliefamily.net/"
+languageCode = "en-us"
+title = "Smillie World"
+theme = "hugo-vitae"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 5
+  
+[params]
+  author = "Jesse Smillie"
+  description = "Code, experiments, thoughts."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  profileMode = true
+  avatar = "images/profile.jpg"
+  tagline = "You do you and leave me out of it.. and pay your taxes.  Otherwise whatever."
+  bio = "IT Admin, iPad Wrangler for the Almighty Gateway Gators, and Sometime Presenter of Things."
+
+[params.footer]
+  enable = true
+  text = "© 2025 Jesse Smillie — Opinions are my own. Not affiliated with or endorsed by Gateway School District."
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[menu]
+
+[[menu.main]]
+  name = "Speaking"
+  url = "/speaking/"
+  weight = 3
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS"]
