@@ -45,6 +45,7 @@ This session covered the district's migration from JAMF Pro to Mosyle Manager in
 This presentation was part of the Campfire Session years and was my first virtual presentation, delivered with my co-presenter Jennifer Czyzewski.
 
 - Slides to be added.
+- [Slides](https://github.com/JCSmillie/PSUMacAdmins2022_iPadDeploymentsInGSD/blob/8a2eacdd2190063eb15978665f122e6d76ba1ad5/GSD%20July%2007%2022%20presentation.pdf)
 - [Presentation](https://www.youtube.com/watch?v=n1dvasD6Jks)
 
 ---
