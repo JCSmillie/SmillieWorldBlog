@@ -9,6 +9,10 @@ I’ve always been the kind of person who can’t just *use* something without e
 
 Fast-forward to today: I work in IT at a school district, keeping infrastructure running, building automation, solving strange problems, and trying to make technology feel less like chaos and more like something people can trust.
 
+![Mrs's and Myself at the Penn State Creamery during MacAdmins 2019](/images/about-macadmins-creamery-2019.png)
+
+*MacAdmins has been a meaningful part of my professional world for years. This photo was taken at the Penn State Creamery during PSU MacAdmins in 2019.  I've been very lucky to be a regular attentdee at the PSU MacAdmins Conference since 2012!*
+
 This blog is my personal notebook. A place where I write things down before I forget them, share experiments, and document whatever I’m learning. Just me being me.  
 **Nothing here is endorsed by or affiliated with my employer.**
 
