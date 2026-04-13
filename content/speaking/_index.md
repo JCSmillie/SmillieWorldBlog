@@ -44,7 +44,8 @@ This session covered the district's migration from JAMF Pro to Mosyle Manager in
 
 This presentation was part of the Campfire Session years and was my first virtual presentation, delivered with my co-presenter Jennifer Czyzewski.
 
-- Slides and presentation link: to be added.
+- Slides to be added.
+- [Presentation](https://www.youtube.com/watch?v=n1dvasD6Jks)
 
 ---
 
@@ -61,7 +62,7 @@ This session was a case study on Gateway School District's iPad journey, includi
 ## Other Speaking and Community Events
 
 - Presenter for May '24 Apple IT Roundtable at GSD
-- Co-presenter for April '22 Apple Virtual Tech Event, "Onboarding iPads to MDM Using Apple Configurator"
+- Co-presenter for April '22 Apple Virtual Tech Event, //Onboarding iPads to MDM Using Apple Configurator//
 - Co-presenter for March '22 Apple IT Roundtable at GSD
 - "Ask Apple: Mosyle Spotlight" presenter, April 2021
 
