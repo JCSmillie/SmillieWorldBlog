@@ -2,6 +2,8 @@
 date = '2026-04-12T17:36:44-04:00'
 draft = false
 title = 'Setting Up the Public Blog'
+tags = [ "Coding","HomeLab","PSU_MacAdmins" ]
+categories = [ "Musky","Tech","Presentation" ]
 +++
 So for some reason I thought Friday night when I was reading email and found out that I've been selected to present at Penn State MacAdmins 2026. "I need a blog."  I'm thinking maybe for the help desk students, my own kids, or even someone else who just wants to read some caos.  
 
